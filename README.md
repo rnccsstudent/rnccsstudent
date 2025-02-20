@@ -20,8 +20,9 @@
 - ✅ **E-commerce Website**  
 
 ### 📫 Let's Connect!  
-- 🏗️ **Portfolio (Coming Soon!)**  
-- 🔗 [LinkedIn](#)  
+- 🏗️ [**Portfolio](http://pranab.infinityfreeapp.com/portfolio/)  
+  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pranab28042002/)  
 - 💬 Feel free to reach out for collaborations or discussions on tech!  
 
 ⭐ **"Building technology that helps people value time and contribute to society!"**  
