@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**rnccsstudent/rnccsstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Pranab Mahata! 👋  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎓 Final-year MCA student with a passion for **Machine Learning** and **Software Engineering**.  
+- 💡 Interested in **AI-powered applications**, **Web Development**, and **Technology Solutions** that make a positive impact.  
+- 🔍 Exploring **Python (Django, Streamlit), MySQL, and APIs** to build real-world projects.  
+- 🌱 Currently working on a **Resume Builder with Job Matching AI** and **ML-based Sleep Prediction Model**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Programming:** Python, PHP  
+- **Machine Learning:** XGBoost, Neural Networks  
+- **Databases:** MySQL, PostgreSQL  
+- **Web Development:** Django, Streamlit  
+- **Deployment:** Heroku, GitHub Pages  
+
+### 💡 What I'm Working On  
+- ✅ **AI-powered Resume Builder** using **Django + ML + MySQL**  
+- ✅ **Sleep Prediction Model** with **XGBoost & Neural Networks**  
+- ✅ **E-commerce Website**  
+
+### 📫 Let's Connect!  
+- 🏗️ **Portfolio (Coming Soon!)**  
+- 🔗 [LinkedIn](#)  
+- 💬 Feel free to reach out for collaborations or discussions on tech!  
+
+⭐ **"Building technology that helps people value time and contribute to society!"**  
+
+---
+
