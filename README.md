@@ -26,6 +26,8 @@
 - 💬 Feel free to reach out for collaborations or discussions on tech!  
 
 ⭐ **"Building technology that helps people value time and contribute to society!"**  
-
+✨ If you believe, you can achieve it and 
+If you can't believe, you can't achieve it. ✨
+🔥 Your mindset defines your success! 🔥
 ---
 
